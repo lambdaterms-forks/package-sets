@@ -1864,7 +1864,7 @@
       "generics-rep",
       "profunctor-lenses"
     ],
-    "repo": "https://github.com:paluh/purescript-uri.git",
+    "repo": "https://github.com/paluh/purescript-uri.git",
     "version": "master"
   },
   "validation": {
