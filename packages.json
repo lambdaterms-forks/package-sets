@@ -781,6 +781,32 @@
     "repo": "https://github.com/purescript-contrib/purescript-http-methods.git",
     "version": "v3.0.0"
   },
+  "hyper": {
+    "dependencies": [
+      "aff",
+      "argonaut",
+      "argonaut-codecs",
+      "arrays",
+      "control",
+      "eff",
+      "foldable-traversable",
+      "generics",
+      "generics-rep",
+      "http-methods",
+      "indexed-monad",
+      "maps",
+      "media-types",
+      "node-fs-aff",
+      "node-http",
+      "prelude",
+      "proxy",
+      "smolder",
+      "strings",
+      "transformers"
+    ],
+    "repo": "https://github.com/paluh/hyper.git",
+    "version": "37-node-stream-limit"
+  },
   "identity": {
     "dependencies": [
       "foldable-traversable"
