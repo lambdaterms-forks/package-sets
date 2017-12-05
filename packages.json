@@ -1394,6 +1394,27 @@
     "repo": "https://github.com/purescript-node/purescript-posix-types.git",
     "version": "v3.0.0"
   },
+  "postgresql-client": {
+    "dependencies": [
+      "aff",
+      "arrays",
+      "bifunctors",
+      "bytestrings",
+      "datetime",
+      "eff",
+      "either",
+      "exceptions",
+      "foldable-traversable",
+      "foreign",
+      "lists",
+      "maybe",
+      "newtype",
+      "prelude",
+      "transformers"
+    ],
+    "repo": "https://github.com/paluh/purescript-postgresql-client.git",
+    "version": "master"
+  },
   "pprint": {
     "dependencies": [
       "arrays",
