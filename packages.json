@@ -807,6 +807,13 @@
     "repo": "https://github.com/paluh/hyper.git",
     "version": "37-node-stream-limit"
   },
+  "hyperdrive": {
+    "dependencies": [
+      "hyper"
+    ],
+    "repo": "https://github.com/owickstrom/purescript-hyperdrive.git",
+    "version": "v0.1.0"
+  },
   "identity": {
     "dependencies": [
       "foldable-traversable"
