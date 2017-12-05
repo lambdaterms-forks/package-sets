@@ -1432,6 +1432,22 @@
     "repo": "https://github.com/felixSchl/purescript-pipes.git",
     "version": "v5.0.0"
   },
+  "polyform": {
+    "dependencies": [
+      "prelude",
+      "console",
+      "newtype",
+      "maps",
+      "monoid",
+      "generics-rep",
+      "variant",
+      "transformers",
+      "profunctor",
+      "invariant"
+    ],
+    "repo": "https://github.com/paluh/purescript-polyform.git",
+    "version": "master"
+  },
   "posix-types": {
     "dependencies": [
       "prelude",
