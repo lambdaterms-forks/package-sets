@@ -192,6 +192,29 @@
     "repo": "https://github.com/rightfold/purescript-bytestrings.git",
     "version": "v6.0.0"
   },
+  "boomerang": {
+    "dependencies": [
+      "arrays",
+      "console",
+      "control",
+      "errors",
+      "filterable",
+      "foldable-traversable",
+      "generics",
+      "generics-rep",
+      "lazy",
+      "lists",
+      "monoid",
+      "parsing",
+      "prelude",
+      "profunctor",
+      "symbols",
+      "transformers",
+      "tuples"
+    ],
+    "repo": "https://github.com/paluh/purescript-boomerang.git",
+    "version": "v1.8.1"
+  },
   "canvas": {
     "dependencies": [
       "eff",
@@ -1661,6 +1684,15 @@
     ],
     "repo": "https://github.com/slamdata/purescript-routing",
     "version": "v6.1.2"
+  },
+  "routing-bob": {
+    "dependencies": [
+      "boomerang",
+      "string-parsers",
+      "uri"
+    ],
+    "repo": "https://github.com/paluh/purescript-routing-bob.git",
+    "version": "v0.6.1"
   },
   "run": {
     "dependencies": [
