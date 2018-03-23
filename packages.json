@@ -2005,7 +2005,7 @@
       "typelevel-prelude"
     ],
     "repo": "https://github.com/lambdaterms/purescript-tpay.git",
-    "version": "v0.1.0"
+    "version": "master"
   },
   "transformers": {
     "dependencies": [
