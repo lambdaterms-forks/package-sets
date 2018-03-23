@@ -1443,7 +1443,8 @@
       "variant",
       "transformers",
       "profunctor",
-      "invariant"
+      "invariant",
+      "run"
     ],
     "repo": "https://github.com/paluh/purescript-polyform.git",
     "version": "master"
