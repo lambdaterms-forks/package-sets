@@ -1993,6 +1993,19 @@
     "repo": "https://github.com/purescript-contrib/purescript-these.git",
     "version": "v3.0.0"
   },
+  "tpay": {
+    "dependencies": [
+      "prelude",
+      "console",
+      "uri",
+      "crypto",
+      "polyform",
+      "numbers",
+      "typelevel-prelude"
+    ],
+    "repo": "https://github.com/lamdaterms/purescript-tpay.git",
+    "version": "v0.1.0"
+  },
   "transformers": {
     "dependencies": [
       "arrays",
