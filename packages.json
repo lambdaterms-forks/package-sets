@@ -2623,6 +2623,14 @@
     "version": "master"
 >>>>>>> Add spork
   },
+  "uuid": {
+    "dependencies": [
+      "eff",
+      "maybe"
+    ],
+    "repo": "https://github.com/spicydonuts/purescript-uuid.git",
+    "version": "v4.0.0"
+  },
   "validation": {
     "dependencies": [
       "bifunctors",
