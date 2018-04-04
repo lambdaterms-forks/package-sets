@@ -224,6 +224,20 @@
     "repo": "https://github.com/paluh/purescript-boomerang.git",
     "version": "v1.8.1"
   },
+  "boomboom": {
+    "dependencies": [
+      "console",
+      "maybe",
+      "parsing",
+      "prelude",
+      "profunctor",
+      "record",
+      "strings",
+      "variant"
+    ],
+    "repo": "https://github.com/paluh/purescript-boomboom.git",
+    "version": "v0.2.6"
+  },
   "canvas": {
     "dependencies": [
       "eff",
