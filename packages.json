@@ -1879,6 +1879,17 @@
     "repo": "https://github.com/purescript/purescript-record.git",
     "version": "v0.2.6"
   },
+  "record-fold": {
+    "dependencies": [
+      "purescript-arrays",
+      "purescript-record",
+      "purescript-maybe",
+      "purescript-tuples",
+      "purescript-typelevel-prelude"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-react.git",
+    "version": "v5.1.0"
+  },
   "redis": {
     "dependencies": [
       "aff",
