@@ -1881,11 +1881,11 @@
   },
   "record-fold": {
     "dependencies": [
-      "purescript-arrays",
-      "purescript-record",
-      "purescript-maybe",
-      "purescript-tuples",
-      "purescript-typelevel-prelude"
+      "arrays",
+      "maybe",
+      "record",
+      "tuples",
+      "typelevel-prelude"
     ],
     "repo": "https://github.com/mbuszka/purescript-record-fold.git",
     "version": "v0.1.0"
