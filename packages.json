@@ -1887,8 +1887,8 @@
       "purescript-tuples",
       "purescript-typelevel-prelude"
     ],
-    "repo": "https://github.com/purescript-contrib/purescript-react.git",
-    "version": "v5.1.0"
+    "repo": "https://github.com/mbuszka/purescript-record-fold.git",
+    "version": "v0.1.0"
   },
   "redis": {
     "dependencies": [
