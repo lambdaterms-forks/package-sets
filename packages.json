@@ -1153,6 +1153,27 @@
     "repo": "https://github.com/purescript/purescript-lists.git",
     "version": "v4.12.0"
   },
+  "little-selda": {
+    "dependencies": [
+      "record-fold",
+      "assert",
+      "console",
+      "debug",
+      "eff",
+      "exists",
+      "leibniz",
+      "postgresql-client",
+      "prelude",
+      "psci-support",
+      "record",
+      "strings",
+      "test-unit",
+      "transformers",
+      "typelevel-prelude"
+    ],
+    "repo": "https://github.com/paluh/purescript-little-selda.git",
+    "version": "master"
+  },
   "logging": {
     "dependencies": [
       "console",
