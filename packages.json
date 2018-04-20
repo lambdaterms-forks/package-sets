@@ -2221,6 +2221,16 @@
     "repo": "https://github.com/purescript-contrib/purescript-strongcheck.git",
     "version": "v3.1.0"
   },
+  "sunde": {
+    "dependencies": [
+      "aff",
+      "eff",
+      "node-child-process",
+      "prelude"
+    ],
+    "repo": "https://github.com/justinwoo/purescript-sunde.git",
+    "version": "v0.1.0"
+  },
   "symbols": {
     "dependencies": [
       "unsafe-coerce",
