@@ -1803,7 +1803,7 @@
       "typelevel-prelude"
     ],
     "repo": "https://github.com/mbuszka/purescript-record-fold.git",
-    "version": "v0.1.0"
+    "version": "v0.3.0"
   },
   "reflection": {
     "dependencies": [
