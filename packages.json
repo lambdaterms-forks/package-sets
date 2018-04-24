@@ -398,6 +398,13 @@
     "repo": "https://github.com/garyb/purescript-debug.git",
     "version": "v3.0.0"
   },
+  "decimals": {
+    "dependencies": [
+      "maybe"
+    ],
+    "repo": "https://github.com/sharkdp/purescript-decimals.git",
+    "version": "v3.0.0"
+  },
   "distributions": {
     "dependencies": [
       "lists"
@@ -1673,6 +1680,7 @@
       "bifunctors",
       "bytestrings",
       "datetime",
+      "decimals",
       "eff",
       "either",
       "exceptions",
