@@ -1332,6 +1332,21 @@
     "repo": "https://github.com/purescript/purescript-monoid.git",
     "version": "v3.3.0"
   },
+  "nasa-images": {
+    "dependencies": [
+      "affjax",
+      "console",
+      "parallel",
+      "polyform",
+      "prelude",
+      "record-fold",
+      "strings",
+      "these",
+      "validators"
+    ],
+    "repo": "https://github.com/lambdaterms/purescript-nasa-images.git",
+    "version": "master"
+  },
   "newtype": {
     "dependencies": [
       "prelude"
@@ -2415,6 +2430,19 @@
     ],
     "repo": "https://github.com/purescript/purescript-validation.git",
     "version": "v3.2.0"
+  },
+  "validators": {
+    "dependencies": [
+      "argonaut",
+      "console",
+      "numbers",
+      "parsing",
+      "prelude",
+      "polyform",
+      "uri"
+    ],
+    "repo": "https://github.com/lambdaterms/purescript-validators.git",
+    "version": "master"
   },
   "var": {
     "dependencies": [
