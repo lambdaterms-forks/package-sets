@@ -22,7 +22,7 @@
       "coroutines"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-aff-coroutines.git",
-    "version": "v6.0.0"
+    "version": "d66a8de4e9eed36a61fdf7bee882afbae3b5839b"
   },
   "aff-promise": {
     "dependencies": [
