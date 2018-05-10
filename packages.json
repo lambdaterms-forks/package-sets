@@ -22,7 +22,7 @@
       "coroutines"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-aff-coroutines.git",
-    "version": "d66a8de4e9eed36a61fdf7bee882afbae3b5839b"
+    "version": "master"
   },
   "aff-promise": {
     "dependencies": [
@@ -236,7 +236,7 @@
       "variant"
     ],
     "repo": "https://github.com/paluh/purescript-boomboom.git",
-    "version": "v0.2.10"
+    "version": "v0.4.0"
   },
   "canvas": {
     "dependencies": [
