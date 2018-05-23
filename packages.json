@@ -236,7 +236,7 @@
       "variant"
     ],
     "repo": "https://github.com/paluh/purescript-boomboom.git",
-    "version": "v0.4.1"
+    "version": "v0.4.3"
   },
   "canvas": {
     "dependencies": [
@@ -1323,6 +1323,18 @@
     "repo": "https://github.com/Thimoteus/purescript-mmorph.git",
     "version": "v3.0.0"
   },
+  "monad-loop": {
+    "dependencies": [
+      "lists",
+      "maybe",
+      "monoid",
+      "prelude",
+      "tailrec",
+      "tuples"
+    ],
+    "repo": "https://github.com/mlang/purescript-monad-loops.git",
+    "version": "v0.4.0"
+  },
   "monoid": {
     "dependencies": [
       "control",
@@ -1934,16 +1946,27 @@
     "repo": "https://github.com/mbuszka/purescript-record-fold.git",
     "version": "v0.1.0"
   },
-  "redis": {
+  "redis-client": {
     "dependencies": [
       "aff",
       "transformers",
       "bytestrings",
       "either",
+      "int-53",
       "maybe",
       "prelude"
     ],
-    "repo": "https://github.com/paluh/purescript-redis.git",
+    "repo": "https://github.com/paluh/purescript-redis-client.git",
+    "version": "master"
+  },
+  "redis-hotqueue": {
+    "dependencies": [
+      "console",
+      "prelude",
+      "redis-client",
+      "simple-json"
+    ],
+    "repo": "https://github.com/paluh/purescript-redis-hotqueue.git",
     "version": "master"
   },
   "reflection": {
