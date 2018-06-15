@@ -1690,7 +1690,7 @@
       "invariant"
     ],
     "repo": "https://github.com/paluh/purescript-polyform.git",
-    "version": "master"
+    "version": "v0.6.2"
   },
   "posix-types": {
     "dependencies": [
