@@ -1354,7 +1354,7 @@
       "record-fold",
       "strings",
       "these",
-      "validators"
+      "polyform-validators"
     ],
     "repo": "https://github.com/lambdaterms/purescript-nasa-images.git",
     "version": "master"
@@ -1651,6 +1651,23 @@
     ],
     "repo": "https://github.com/vmchale/ppp.git",
     "version": "v0.2.2"
+  },
+  "pexels": {
+    "dependencies": [
+      "affjax",
+      "console",
+      "eff",
+      "parallel",
+      "polyform",
+      "polyform-validators",
+      "prelude",
+      "psci-support",
+      "record-fold",
+      "strings",
+      "these"
+    ],
+    "repo": "https://github.com/lambdaterms/purescript-pexels.git",
+    "version": "master"
   },
   "phoenix": {
     "dependencies": [
@@ -2454,7 +2471,7 @@
     "repo": "https://github.com/purescript/purescript-validation.git",
     "version": "v3.2.0"
   },
-  "validators": {
+  "polyform-validators": {
     "dependencies": [
       "argonaut",
       "console",
@@ -2464,7 +2481,7 @@
       "polyform",
       "uri"
     ],
-    "repo": "https://github.com/lambdaterms/purescript-validators.git",
+    "repo": "https://github.com/lambdaterms/purescript-polyform-validators.git",
     "version": "master"
   },
   "var": {
