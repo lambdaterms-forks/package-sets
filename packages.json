@@ -21,8 +21,8 @@
       "aff",
       "coroutines"
     ],
-    "repo": "https://github.com/purescript-contrib/purescript-aff-coroutines.git",
-    "version": "master"
+    "repo": "https://github.com/lambdaterms-forks/purescript-aff-coroutines.git",
+    "version": "v6.1.0"
   },
   "aff-promise": {
     "dependencies": [
@@ -1707,7 +1707,7 @@
       "invariant"
     ],
     "repo": "https://github.com/paluh/purescript-polyform.git",
-    "version": "v0.6.2"
+    "version": "v0.6.7"
   },
   "posix-types": {
     "dependencies": [
