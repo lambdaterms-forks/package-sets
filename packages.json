@@ -2156,6 +2156,18 @@
     "repo": "https://github.com/justinwoo/purescript-simple-json.git",
     "version": "v2.0.1"
   },
+  "sized-vectors": {
+    "dependencies": [
+      "arrays",
+      "maybe",
+      "unfoldable",
+      "typelevel",
+      "foldable-traversable",
+      "prelude"
+    ],
+    "repo": "https://github.com/bodil/purescript-sized-vectors.git",
+    "version": "v2.2.0"
+  },
   "smolder": {
     "dependencies": [
       "monoid",
