@@ -1711,6 +1711,7 @@
   },
   "polyform-validators": {
     "dependencies": [
+      "affjax",
       "argonaut",
       "console",
       "numbers",
